@@ -16,6 +16,22 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 sayac++;
             }
             Console.WriteLine("1'den sayiya kadar olan sayilarin ortalaması: {0}", (toplam / sayi));
+
+            //'a' dan 'z' ye kadar tüm harfleri console a yazdır.
+            char character = 'a';
+            while (character < 'z')
+            {
+                Console.Write(character);
+                character++;
+            }
+
+            Console.Write("***** Foreach *****");
+            string[] arabalar = {"BMW", "Ford", "Toyota", "Nissan"};
+
+            foreach (var araba in arabalar)
+            {
+                Console.WriteLine(araba);
+            }
         }
     }
 }
