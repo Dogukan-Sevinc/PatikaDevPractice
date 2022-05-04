@@ -26,6 +26,7 @@ namespace Recursive_Extension_Methods // Note: actual namespace depends on the p
             {
                 Console.WriteLine(ifade.RemoveWhiteSpaces());
                 Console.WriteLine(ifade.MakeUpperCase());
+                Console.WriteLine(ifade.MakeLowerCase());
             }
 
         }
@@ -60,6 +61,11 @@ namespace Recursive_Extension_Methods // Note: actual namespace depends on the p
         public static string MakeUpperCase(this string param)
         {
             return param.ToUpper();
+        }
+
+        public static string MakeLowerCase(this string param)
+        {
+            return param.ToLower();
         }
     }
 }
