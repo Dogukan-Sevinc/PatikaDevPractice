@@ -25,10 +25,18 @@ namespace Recursive_Extension_Methods // Note: actual namespace depends on the p
             if(sonuc)
             {
                 Console.WriteLine(ifade.RemoveWhiteSpaces());
+            }
                 Console.WriteLine(ifade.MakeUpperCase());
                 Console.WriteLine(ifade.MakeLowerCase());
-            }
 
+                int[] dizi = {9,3,6,2,1,5,0};
+                dizi.SortArray();
+                dizi.EkranaYazdir();
+
+                int sayi = 5;
+                Console.WriteLine(sayi.IsEvenNumber());
+
+                Console.WriteLine(ifade.GetFirstCharacter());
         }
     }
 
@@ -67,5 +75,39 @@ namespace Recursive_Extension_Methods // Note: actual namespace depends on the p
         {
             return param.ToLower();
         }
+
+        public static int[] SortArray(this int[] param)
+        {
+            Array.Sort(param);
+            return param;
+        }
+
+        public static void EkranaYazdir(this int[] param)
+        {
+            foreach (int item in param)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        public static bool IsEvenNumber(this int param)
+        {
+            return param%2==0;
+        }
+
+        public static string GetFirstCharacter(this string param)
+        {
+            return param.Substring(0,1); // yazılan bir yazının ilk karakterini getiren method
+        }
     }
 }
+
+//Method Overloading;
+/*
+    Bir tane class içerisinde bir tane method tanımlamışsınız ve bunu kullanıyorsunuz fakat bir tane daha
+method yazmanız gerekli oldu ve isimlendirme olarak aynı method ismini kullanmanız gerekiyor. İşte burada 
+"Method Overloading" devreye giriyor.
+
+Dikkat edilmesi gereken yer: 1)Metotların dönüş tipi aynı olmalıdır. 2)Metotlar farklı tipte parametreler almalıdır.
+*/
+
