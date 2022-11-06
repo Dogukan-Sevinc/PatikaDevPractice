@@ -62,11 +62,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
             //Split
             Console.WriteLine(degisken.Split(' ')[1]); 
 
-            //Substring
+            //Substring ****Kullanılıyor
             Console.WriteLine(degisken.Substring(4)); // 4. indexten başlayıp sonuna kadar getirdi.
             Console.WriteLine(degisken.Substring(4,6)); // 4. indexten başlayıp 6 karakter getirdi.
 
-            
+
             
 
 
