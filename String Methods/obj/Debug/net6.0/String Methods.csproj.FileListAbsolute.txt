@@ -1,0 +1,15 @@
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\bin\Debug\net6.0\String Methods.exe
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\bin\Debug\net6.0\String Methods.deps.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\bin\Debug\net6.0\String Methods.runtimeconfig.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\bin\Debug\net6.0\String Methods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\bin\Debug\net6.0\String Methods.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.csproj.AssemblyReference.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfoInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.AssemblyInfo.cs
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\refint\String Methods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\String Methods.genruntimeconfig.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\String Methods\obj\Debug\net6.0\ref\String Methods.dll
