@@ -1,0 +1,15 @@
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\bin\Debug\net6.0\CollectionsGenericList.exe
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\bin\Debug\net6.0\CollectionsGenericList.deps.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\bin\Debug\net6.0\CollectionsGenericList.runtimeconfig.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\bin\Debug\net6.0\CollectionsGenericList.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\bin\Debug\net6.0\CollectionsGenericList.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.csproj.AssemblyReference.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.AssemblyInfoInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.AssemblyInfo.cs
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\refint\CollectionsGenericList.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\CollectionsGenericList.genruntimeconfig.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\CollectionsGenericList\obj\Debug\net6.0\ref\CollectionsGenericList.dll
