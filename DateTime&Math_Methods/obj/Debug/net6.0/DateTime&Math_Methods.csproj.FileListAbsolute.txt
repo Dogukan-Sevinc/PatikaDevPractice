@@ -1,0 +1,15 @@
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\bin\Debug\net6.0\DateTime&Math_Methods.exe
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\bin\Debug\net6.0\DateTime&Math_Methods.deps.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\bin\Debug\net6.0\DateTime&Math_Methods.runtimeconfig.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\bin\Debug\net6.0\DateTime&Math_Methods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\bin\Debug\net6.0\DateTime&Math_Methods.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.csproj.AssemblyReference.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.AssemblyInfoInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.AssemblyInfo.cs
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\refint\DateTime&Math_Methods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\DateTime&Math_Methods.genruntimeconfig.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\DateTime&Math_Methods\obj\Debug\net6.0\ref\DateTime&Math_Methods.dll
