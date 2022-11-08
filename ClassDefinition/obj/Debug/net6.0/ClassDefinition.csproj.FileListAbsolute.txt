@@ -1,0 +1,15 @@
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\bin\Debug\net6.0\ClassDefinition.exe
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\bin\Debug\net6.0\ClassDefinition.deps.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\bin\Debug\net6.0\ClassDefinition.runtimeconfig.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\bin\Debug\net6.0\ClassDefinition.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\bin\Debug\net6.0\ClassDefinition.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.csproj.AssemblyReference.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.AssemblyInfoInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.AssemblyInfo.cs
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\refint\ClassDefinition.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ClassDefinition.genruntimeconfig.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ClassDefinition\obj\Debug\net6.0\ref\ClassDefinition.dll
