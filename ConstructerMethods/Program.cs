@@ -42,6 +42,9 @@ namespace MyApp // Note: actual namespace depends on the project name.
            Calisan calisan3 = new Calisan("Zikriye", "ürkmez");
            calisan3.CalisanBilgileri(); 
 
+           Calisan calisan4 = new Calisan("Muzaffer", "Kuşan");
+           calisan4.CalisanBilgileri();
+
         }
 
        
