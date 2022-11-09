@@ -24,11 +24,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
             4. Protected : Sadece tanımlandığı sınıfta ya da o sınıfı miras alan sınıflardan erişilebilir.      
    */
             // Çalışan sınıfından bir "instance(örnek)" yaratacağız*********************
-            Calisan calisan1 = new Calisan();
-            calisan1.Ad="Ayşe";
-            calisan1.Soyad="Kara";
-            calisan1.No=23425634;
-            calisan1.Departman="İnsan Kaynakları";  
+            Calisan calisan1 = new Calisan("Ayşe","Kara",23425634,"insan ");
+ 
             // Yukarıda çalışan 1 tanımlandı
 
             calisan1.CalisanBilgileri(); // Calışan 1'in bilgilerini ekrana yazdırıcak.
@@ -41,10 +38,13 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             calisan2.CalisanBilgileri(); // Çalışan 2'nin bilgilerini ekrana yazdır
 
-
-
+           Console.WriteLine("***** Çalışan 3 *****");
+           Calisan calisan3 = new Calisan("Zikriye", "ürkmez");
+           calisan3.CalisanBilgileri(); 
 
         }
+
+       
 
         class Calisan
             {
@@ -64,7 +64,23 @@ namespace MyApp // Note: actual namespace depends on the project name.
                     Kurucu metodların imzasını değiştirerek overload edebiliriz.
 
     */            
-                
+                // Kurucu Method örneği;
+
+                public Calisan(string ad, string soyad, int no, string departman)
+                {
+                    this.Ad = ad;
+                    this.Soyad = soyad;
+                    this.No = no;
+                    this.Departman = departman;
+                }
+
+                public Calisan(string ad, string soyad)
+                {
+                    this.Ad = ad;
+                    this.Soyad = soyad;
+                }
+                 public Calisan(){}
+
                 public void CalisanBilgileri()
                 {
                     Console.WriteLine("Çalışan Adı:{0}", Ad);

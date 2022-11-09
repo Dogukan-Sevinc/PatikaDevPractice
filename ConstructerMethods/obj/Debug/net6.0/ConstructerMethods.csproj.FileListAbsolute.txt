@@ -1,0 +1,15 @@
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\bin\Debug\net6.0\ConstructerMethods.exe
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\bin\Debug\net6.0\ConstructerMethods.deps.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\bin\Debug\net6.0\ConstructerMethods.runtimeconfig.json
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\bin\Debug\net6.0\ConstructerMethods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\bin\Debug\net6.0\ConstructerMethods.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.csproj.AssemblyReference.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.AssemblyInfoInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.AssemblyInfo.cs
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.csproj.CoreCompileInputs.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\refint\ConstructerMethods.dll
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.pdb
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ConstructerMethods.genruntimeconfig.cache
+C:\Users\Doğukan Sevinç\Desktop\Yazılım 2022\PatikaÇalışma\PatikaDevPractice\ConstructerMethods\obj\Debug\net6.0\ref\ConstructerMethods.dll
